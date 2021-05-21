@@ -1,0 +1,40 @@
+body{
+ 	
+	background-color: #D5DBDB ;
+	
+ }
+#caja{
+	background-color: #17202A;
+	border:1,5px solid black;
+	
+}
+#fus{
+text-align: center;
+}
+#titulo{
+	
+	text-align: center;
+	color: #AAB7B8	;
+}
+
+#tabla{
+ 
+  width: 70px;
+  
+  background-color: agua;
+  color: black;
+	
+  text-align: center;	
+  margin-left:auto;
+  margin-right: auto;	
+
+}
+
+#tabla td{
+	background-color: #F9E79F;
+	 border-radius:50px;
+}
+#tabla th{
+	border-radius:50px;
+	background-color: #F4D03F;
+}
